@@ -1,0 +1,24 @@
+todo
+
+websocket disconnects
+improve nip-17, committments, pet names, chain
+
+vocabs
+vocab for bookmarks
+use linked objects
+right structure
+
+app layout
+styles, link colour
+correct date format
+better description for link than reddit
+add tailwind
+wider tables
+sidebar
+
+script to exodus
+script to init
+
+cleanup
+improve readme
+next bots, chores, find, others
