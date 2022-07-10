@@ -4,6 +4,7 @@ main entity
 deploy to bitbots
 add relay
 nostr 617 lookup service
+change id to pubkey
 
 
 20220709
