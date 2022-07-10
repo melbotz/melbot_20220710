@@ -1,6 +1,6 @@
 {
   "name": "melbot_20220710",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "melbot_20220710",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run server && npm run updater",
     "server": "pm2 start --name melbot_20220710_server bin/serve.sh",
-    "updater": "pm2 start --name melbot_20220710_updater bin/updater.sh"
+    "updater": "pm2 start --name melbot_20220710_updater bin/updater.sh --restart-delay=3600000"
   },
   "bin": {
     "melbot_20220710": "./bin/serve.js"
