@@ -32,7 +32,7 @@ render(
       .data.previous}</a> ${'\n'}
             Next: <a style="color: blue" href="${doc.next}">${doc
       .next}</a> ${'\n'}
-            Nostr: ${doc.nostrkey}
+            Nostr: <a  style="color: blue" href="http://bitbots.org:2617/?id=${doc.nostrkey}" target="_blank">${doc.nostrkey}</a>
 
 
           </pre>

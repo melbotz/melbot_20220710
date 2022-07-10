@@ -3,6 +3,7 @@ new bot
 main entity
 deploy to bitbots
 add relay
+nostr 617 lookup service
 
 
 20220709
