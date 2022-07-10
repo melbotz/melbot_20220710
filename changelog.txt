@@ -1,5 +1,8 @@
 20220710
 new bot
+main entity
+deploy to bitbots
+add relay
 
 
 20220709
